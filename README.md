@@ -24,4 +24,11 @@ To install all dependencies in this project, open your terminal and run:
 pip install -r requirements.txt
 ```
 
+# Contributing:
+Contributions are welcome and will be fully credited.
+we accept contributions via Pull Requests on Github.
+
+
 # Credits:
+HNGi7 team-fierce
+All contributors
